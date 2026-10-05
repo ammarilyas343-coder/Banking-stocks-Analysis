@@ -185,9 +185,9 @@ body.sb-collapsed .hdr {
 
 .hdr-disclaimer {
     font-family: var(--font);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 600;
-    color: var(--gold-light);
+    color: var(--white);
     line-height: 1.35;
     margin: 5px 0 0;
     padding: 5px 8px;
